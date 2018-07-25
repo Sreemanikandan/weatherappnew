@@ -10,15 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node":"^8.10.0",
+    "npm":"^3.5.2",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "request": "^2.87.0",
     "yargs": "^12.0.1",
 
-  },
-  "engines":{
-  "node":"v8.10.0",
-  "npm":"^3.5.2"
-}
+  }
 }
